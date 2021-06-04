@@ -1,0 +1,43 @@
+{
+    "Auth": {
+        "googleLogin": " LOGIN WITH GOOGLE",
+        "facebookLogin": "LOGIN WITH FACEBOOK",
+        "or": "OR",
+        "login": "LOGIN",
+        "LOGIN": "Login",
+        "forgetPassword": "Forgot Password?",
+        "ForgotText":"Forgot Password",
+        "RegisteredTag": "Don't have access?",
+        "RegisteredHere": "Register Here...",
+        "confirmEmail": "CONFIRM",
+        "Register" : "Register",
+        "Agree" : "I agree to",
+        "Term" : "Terms & Conditions",
+        "And" : " and ",
+        "Privacy" : "Privacy Policy",
+        "sendCodeText": "How do you want to receive the code to reset your password?"
+ 
+        
+    },
+
+    "Modal": {
+        "Alert": " Alert ",
+        "EmailVerified": " Your Email has been verified. ",
+        "Oky": " OKAY "
+        
+    },
+
+    "About": {
+        "ABOUT": "About Us",
+        "Privacy": "Privacy Policy",
+        "PrivacyDetail": 
+        "Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor... ",
+        "Terms": "Terms & Conditions",
+        "TermsDetail": "Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor Dolor amit sed tu es conor Lorem Ipsum Dolor amit sed tu es conor... "       
+    },
+
+    "Checkout": {
+      "CheckoutHeading": "Checkout"
+    }
+
+}
